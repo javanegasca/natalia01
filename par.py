@@ -1,5 +1,5 @@
 numero = 20
 if numero %2 == 0:
-    print("El numero es par")
+    print(f"El numero {numero} es par")
 else:
     print("El número es impar")    
